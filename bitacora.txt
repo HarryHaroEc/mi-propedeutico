@@ -3,3 +3,5 @@
 # Clase 3 - 15 de Julio de 2026
 
 # He publicado varios repositorios
+
+# Estoy practicando para aprenderme el ciclo de memoria
